@@ -1,11 +1,14 @@
 # 2023 Phase 1
 
-Welcome to Phase 1 of the 2023 MSA programme! This year, the programme is split into two streams (Software Development and Data Science), and Phase 1 consists of Microsoft Learn modules for each stream.
+Welcome to Phase 1 of the 2023 MSA programme! This year, the programme is split into two streams (Software Development and Data Science), and Phase 1 consists of Microsoft Learn modules for each stream. For more information, please visit the following links:
+- [2023 Programme Launch](https://www.youtube.com/watch?v=NaLTjSn9GyY), a YouTube video that provides an overview of this year's programme
+- [Frequently asked questions and answers](https://1drv.ms/w/s!AhUTdgNym7JMnXR2kDiGvhJsfcjo?e=ML2NyC) about the programme
 
 The expected workload for Phase 1 of each stream is 3-4 hours per week. As such, we recommend that you use the schedule below to spread out your workload and not try to complete everything in one week.
 
 Phase 2 will build upon the knowledge for Phase 1 of each stream, and placements will be either in Software Development or Data Science. As such, we recommend that you follow one stream only in order to manage your time effectively and build your knowledge and skills within one stream as much as you can in order to stand out to employers.
 
+Contents:
 - [Getting Started](https://github.com/NZMSA/2023-Phase-1#getting-started)
 - [Schedule](https://github.com/NZMSA/2023-Phase-1#schedule)
 - [Submission](https://github.com/NZMSA/2023-Phase-1#submission)
@@ -17,7 +20,7 @@ Phase 2 will build upon the knowledge for Phase 1 of each stream, and placements
 To get started with Phase 1:
 1. [Sign up for the 2023 MSA programme](https://forms.office.com/r/beXXMJTAac)
 - Note: Please sign up for the programme using the same email as the Microsoft account you want to use for the programme (if you already have one)
-2. [Create a Microsoft account](https://account.microsoft.com/account/Account) if you don't already have one: 
+2. [Create a Microsoft account](https://account.microsoft.com/account/Account) if you don't already have one 
 - Note: Please create an account using the same email that you signed up for the programme with
 3. Log in to [Microsoft Learn](https://learn.microsoft.com/en-nz) with your Microsoft account
 4. Complete all the Microsoft Learn modules listed in the schedule below for your chosen stream
@@ -61,8 +64,11 @@ All the Microsoft Learn modules listed below can be found in these Microsoft Lea
 #### Data Science
 
 1. [Explore and analyze data with Python](https://learn.microsoft.com/en-us/training/modules/explore-analyze-data-with-python)
-2. [Data collection and manipulation](https://learn.microsoft.com/en-us/training/paths/machine-learning-predict-launch-delay-nasa)
+2. [Data collection and manipulation](https://learn.microsoft.com/en-us/training/modules/collect-manipulate-data-python-nasa)
+- Note: The Excel file link in the module above is broken (as of 16/5/23). Please use [this OneDrive link](https://1drv.ms/x/s!AhUTdgNym7JMniQMzHt9Bu-1_McY?e=Ez8arx) to access the dataset instead.
 3. [Get started with AI on Azure](https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals)
+4. [Introduction to machine learning](https://learn.microsoft.com/en-us/training/modules/introduction-to-machine-learning)
+5. [Introduction to rocket launches](https://learn.microsoft.com/en-us/training/modules/introduction-rocket-launch-nasa)
 
 ### Week 3 (22 May - 28 May)
 
@@ -76,11 +82,10 @@ All the Microsoft Learn modules listed below can be found in these Microsoft Lea
 
 #### Data Science
 
-1. [Introduction to machine learning](https://learn.microsoft.com/en-us/training/modules/introduction-to-machine-learning)
-2. [Introduction to data for machine learning](https://learn.microsoft.com/en-us/training/modules/introduction-to-data-for-machine-learning)
+1. [Introduction to data for machine learning](https://learn.microsoft.com/en-us/training/modules/introduction-to-data-for-machine-learning)
+2. [Create and understand classification models in machine learning](https://learn.microsoft.com/en-us/training/modules/understand-classification-machine-learning)
 3. [Build classical machine learning models with supervised learning](https://learn.microsoft.com/en-us/training/modules/introduction-to-classical-machine-learning)
 4. [Train and understand regression models in machine learning](https://learn.microsoft.com/en-us/training/modules/understand-regression-machine-learning)
-5. [Introduction to rocket launches](https://learn.microsoft.com/en-us/training/modules/introduction-rocket-launch-nasa)
 
 ### Week 4 (29 May - 4 Jun)
 
@@ -145,7 +150,7 @@ To complete Phase 1 and submit evidence of your completion:
 - [Software Development collection](https://learn.microsoft.com/en-nz/users/msa-nz/collections/4m8nhoyrwj1555)
 - [Data Science collection](https://learn.microsoft.com/en-nz/users/msa-nz/collections/n2kyanp2128q50)
 - Note: To take a full-page screenshot, you can use [this Chrome extension](https://chrome.google.com/webstore/detail/awesome-screenshot-and-sc/nlipoenfbbikpbjkfpfillcgkoblgpmj) or if you are using Edge or Firefox, you can press Ctrl+Shift+S and then select "Capture/Save full page".
-4. Submit this form by 11:59pm, Sunday 18 June: [TBA]
+4. Submit this form by 11:59pm, Sunday 18 June: [MSA 2023 Phase 1 Submission](https://forms.office.com/r/zuqtugck3k)
 
 ## Key Tools
 
@@ -195,5 +200,10 @@ Here is a list of all the key tools you will need for the programme, we recommen
 
 If you have any questions, comments, or concerns, please contact the MSA team via our:
 - [Discord server](https://discord.gg/2WCtnQDjEf)
+  -  Our main and fastest way of getting both technical and non-technical support, post your query in one of the public channels
 - [Facebook group](https://www.facebook.com/groups/msaccelerator)
+  - Post your query in the group after joining, but note that this is primarily monitored by our Marketing team so any technical queries may be delayed
 - [Messenger chat](https://www.m.me/studentaccelerator)
+  - Use this if would like to contact us privately, but note that this is primarily monitored by our Marketing team so any technical queries may be delayed
+- [Email](mailto:msaccelerate@hotmail.com)
+  - Use this if would like to contact us privately, but note that this is primarily monitored by our Marketing team so any technical queries may be delayed
